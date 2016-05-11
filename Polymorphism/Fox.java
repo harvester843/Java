@@ -3,9 +3,6 @@
 /**
  * @author Benjamin Lipscomb
  * @version 25 Feb 2016
- * CSCI146 Algorithmic Design II
- * Dr. Brian Canada
- * Assignment 2
  * 
  * CONCRETE Fox class extends the Animal superclass.
  * Defines what the Fox will say when he speaks.
