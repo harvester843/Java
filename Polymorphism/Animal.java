@@ -3,9 +3,6 @@
 /**
  * @author Benjamin Lipscomb
  * @version 25 Feb 2016
- * CSCI146 Algorithmic Design II
- * Dr. Brian Canada
- * Assignment 2
  * 
  * Animal class implements Speakable class. This will get and print the names
  * assigned to the animal subclasses. It will also implement the speak method
