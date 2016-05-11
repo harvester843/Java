@@ -3,10 +3,6 @@ package csci146_ex8_11;
 /**
  * @author Benjamin Lipscomb
  * @version 2-18-2016
- * 
- * CSCI146 Algorithm Design II
- * Homework Assignment 1
- * Dr. Brian Canada
  */
 
 /**
