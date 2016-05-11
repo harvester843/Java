@@ -3,9 +3,6 @@ package csci146_ex8_4;
 /**
  * @author Benjamin Lipscomb
  * @version 2-19-2016
- * CSCI146 Algorithm Design II
- * Assignment 1
- * Dr. Brian Canada
  */
 
 /**
