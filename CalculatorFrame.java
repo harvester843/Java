@@ -17,9 +17,6 @@ import javax.swing.JButton;
 /**
  * @author Bejamin Lipscomb
  * @version 29 March 2016
- * CSCI146 Algorithmic Design II
- * Dr. Brian Canada
- * Assignment 3
  */
 
 public class CalculatorFrame extends JFrame {
