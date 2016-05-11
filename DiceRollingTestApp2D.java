@@ -2,9 +2,6 @@ package csci146_ex7_17_2D;
 /**
  * @author Benjamin Lipscomb
  * @version: 2-18-2016
- * CSCI146 Algorithm Design II
- * Assignment 1
- * Dr. Brian Canada
  * 
  * Rolls 2 sets of die 36,000,000 times. The sum of the numbers rolled
  * is calculated and stored in an array. The percentage of the frequency
