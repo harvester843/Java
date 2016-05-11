@@ -1,9 +1,6 @@
 /**
  * @author Benjamin Lipscomb
  * @version 25 Feb 2016
- * CSCI146 Algorithmic Design II
- * Dr. Brian Canada
- * Assignment 2
  * 
  *  Class Computer should not be declared abstract because
  *  the class needs to be instantiated in the RuntimePolymorphismDemo test class
